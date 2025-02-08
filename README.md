@@ -66,6 +66,6 @@ const result = await generateText({
     maxSteps: 5, // Maximum number of tool invocations per request
     // prompt: "Send 0.005 SOL to 8BgiiWipqoSf6zadDF8EcA3MDTCXFampjX7AJ46ZEFky",
     prompt:
-      "Swap 0.001 USDC for JUP(JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN)",
+      "Swap 0.001 USDC(EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v) for JUP(JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN)",
   });
 ```
