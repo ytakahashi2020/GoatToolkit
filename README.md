@@ -1,6 +1,6 @@
 # 1 create a connection
 
-`import { Connection } from "@solana/web3.js";`
+`import { Connection } from "@solana/web3.js";`  
 `const connection = new Connection(process.env.RPC_PROVIDER_URL as string);`
 
 # 2 get a keypair
